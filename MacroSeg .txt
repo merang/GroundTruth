@@ -1,0 +1,6 @@
+
+run("Flip Vertically", "stack");
+run("Rotate 90 Degrees Right");
+run("Slice Keeper", "stack");
+
+run("Image Sequence... ", "format=TIFF save=/Users/user/github/HSYAA_GT/650IM_512x512_segmented/");
